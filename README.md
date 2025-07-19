@@ -2,6 +2,8 @@
 
 A SwiftUI library for network debugging that provides real-time network request logging and inspection for iOS applications.
 
+<img src=".github/example.png" width="400" alt="NetworkUI Example">
+
 ## Features
 
 - 🔍 **Real-time Network Monitoring** - Automatically intercept and log all network requests
